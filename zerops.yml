@@ -1,0 +1,3 @@
+staticserver:
+  build:
+    deploy: [ 'index.html' ]
