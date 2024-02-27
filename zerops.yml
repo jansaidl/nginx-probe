@@ -1,5 +1,4 @@
 zerops:
   - setup: staticserver
-    extends: extend-test
     build:
       deploy: index.html
