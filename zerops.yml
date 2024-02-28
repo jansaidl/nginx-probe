@@ -1,5 +1,5 @@
 zerops:
-  - service: staticserver
+  - setup: staticserver
     build:
       base: go@1
       deploy: index.html
